@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.joseferben.com/posts/autostart_dropbox_on_nixos/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/nixos/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.joseferben.com/tags/foo/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/image-captions/</loc>
-    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/</loc>
-    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/posts/</loc>
-    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/image-links/</loc>
