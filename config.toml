@@ -55,9 +55,6 @@ url = "mailto:josef@erben.io"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
 
 [params.analytics.google]
 SiteVerificationTag = "G-JHGX0765SG"
