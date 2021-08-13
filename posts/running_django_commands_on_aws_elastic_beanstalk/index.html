@@ -84,14 +84,14 @@ Running Django Commands on AWS Elastic Beanstalk
 <p>When hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.</p>
 <p>You might want to fix your shell first.</p>
 <p>After connecting using SSH with</p>
-<pre><code class=language-nil data-lang=nil>eb ssh
-</code></pre><p>load the environment variables using</p>
-<pre><code class=language-nil data-lang=nil>export $(cat /opt/elasticbeanstalk/deployment/env | xargs)
-</code></pre><p>then load the Python environment using</p>
-<pre><code class=language-nil data-lang=nil>source /var/app/venv
-</code></pre><p>and finally run your Django command</p>
-<pre><code class=language-nil data-lang=nil>python /var/app/current/manage.py runserver
-</code></pre>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell>eb ssh
+</code></pre></div><p>load the environment variables using</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell>export <span style=color:#66d9ef>$(</span>cat /opt/elasticbeanstalk/deployment/env | xargs<span style=color:#66d9ef>)</span>
+</code></pre></div><p>then load the Python environment using</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell>source /var/app/venv
+</code></pre></div><p>and finally run your Django command</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell>python /var/app/current/manage.py runserver
+</code></pre></div>
 </div>
 <footer class=post-footer>
 <nav class=paginav>
