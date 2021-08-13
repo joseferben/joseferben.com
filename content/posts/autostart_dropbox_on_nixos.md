@@ -1,7 +1,7 @@
 +++
 title = "Autostart Dropbox on NixOS using I3WM"
 author = ["Josef Erben"]
-date = 2021-08-13T00:00:00
+date = 2021-08-13
 tags = ["nixos"]
 draft = false
 +++
