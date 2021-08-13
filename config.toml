@@ -1,0 +1,57 @@
+baseURL = "https://www.joseferben.com"
+languageCode = "en-us"
+title = "Josef's Blog"
+paginate = 20
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+googleAnalytics = "G-JHGX0765SG"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+title = "Josef's Blog"
+description = "A blog about programming, startups and philosophy."
+keywords =["Blog", "Portfolio"]
+ShowToc = true
+ShowPostNavLinks = true
+author = "Josef Erben"
+ShowCodeCopyButtons = true
+comments = true
+
+[params.assets]
+disableHLJS = false
+favicon = "/favicon/favicon-96x96.ico"
+favicon16x16 = "/favicon/favicon-16x16.ico"
+favicon32x32 = "/favicon/favicon-32x32.ico"
+apple_touch_icon = "/favicon/apple-touch-icon-180x180.png"
+safari_pinned_tab = "/favicon/apple-touch-icon-180x180.png"
+
+[params.label]
+text = "Blog"
+icon = "/favicon/apple-touch-icon-180x180.png"
+iconHeight = 30
+
+[params.homeInfoparams]
+Title = "Hi there \U0001F44B"
+content = "Welcome to my blog."
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/_joseferben"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jerben"
+[[params.socialIcons]]
+name = "email"
+url = "josef@erben.io"
+
+[params.analytics.google]
+SiteVerificationTag = "G-JHGX0765SG"
