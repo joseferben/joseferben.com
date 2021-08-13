@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.joseferben.com/categories/</loc>
+    <loc>https://www.joseferben.com/tags/foo/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/image/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/image-captions/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/image-links/</loc>
+    <lastmod>2017-07-15T07:49:44-04:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/post-1/</loc>
+    <lastmod>2017-07-12T17:31:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/prep/</loc>
+    <lastmod>2017-07-12T17:05:38-04:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/categories/</loc>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/inline/</loc>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/inline-images/</loc>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/post-2/</loc>
   </url>
 </urlset>
