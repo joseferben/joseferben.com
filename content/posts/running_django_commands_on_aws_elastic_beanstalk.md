@@ -13,24 +13,24 @@ You might want to fix your shell first.
 
 After connecting using SSH with
 
-```nil
+```shell
 eb ssh
 ```
 
 load the environment variables using
 
-```nil
+```shell
 export $(cat /opt/elasticbeanstalk/deployment/env | xargs)
 ```
 
 then load the Python environment using
 
-```nil
+```shell
 source /var/app/venv
 ```
 
 and finally run your Django command
 
-```nil
+```shell
 python /var/app/current/manage.py runserver
 ```
