@@ -3,6 +3,7 @@
     --primary-color-light: #FFC8DD;
     --secondary-color: #A2D2FF;
     --secondary-color-light: #BDE0FE;
+    --secondary-color-dark: #365573;
 }
 
 .post-content a {
@@ -30,4 +31,8 @@
 
 .post-tags a:hover, .paginav a:hover {
     background-color: var(--secondary-color-light);
+}
+
+.dark .post-tags a:hover, .dark .paginav a:hover {
+    background-color: var(--secondary-color-dark);
 }
