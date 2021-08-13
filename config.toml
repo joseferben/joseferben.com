@@ -44,14 +44,20 @@ Title = "Hi there \U0001F44B"
 content = "I mostly write about [programming](/tags/programming), [building companies](/tags/startups) and [philosophy](/tags/philosophy). If that is not the case anymore I really should update this text."
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/_joseferben"
-[[params.socialIcons]]
 name = "github"
 url = "https://github.com/jerben"
 [[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/_joseferben"
+[[params.socialIcons]]
 name = "email"
 url = "mailto:josef@erben.io"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
 
 [params.analytics.google]
 SiteVerificationTag = "G-JHGX0765SG"
