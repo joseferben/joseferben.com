@@ -37,11 +37,11 @@ safari_pinned_tab = "/favicon/apple-touch-icon-180x180.png"
 [params.label]
 text = "Blog"
 icon = "/favicon/apple-touch-icon-180x180.png"
-iconHeight = 30
+iconHeight = 25
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
-content = "Welcome to my blog."
+content = "I mostly write about [programming](/tags/programming), [building companies](/tags/startups) and [philosophy](/tags/philosophy). If that is not the case anymore I really should update this text."
 
 [[params.socialIcons]]
 name = "twitter"
@@ -51,7 +51,7 @@ name = "github"
 url = "https://github.com/jerben"
 [[params.socialIcons]]
 name = "email"
-url = "josef@erben.io"
+url = "mailto:josef@erben.io"
 
 [params.analytics.google]
 SiteVerificationTag = "G-JHGX0765SG"

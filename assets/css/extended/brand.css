@@ -1,0 +1,33 @@
+:root {
+    --primary-color: #FFAFCC;
+    --primary-color-light: #FFC8DD;
+    --secondary-color: #A2D2FF;
+    --secondary-color-light: #BDE0FE;
+}
+
+.post-content a {
+    box-shadow: none;
+    text-decoration: underline;
+    text-decoration-color: var(--primary-color);
+    text-decoration-thickness: 0.25rem;
+}
+
+.entry-content a {
+    box-shadow: none;
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration-color: var(--primary-color);
+    text-decoration-thickness: 0.15rem;
+}
+
+.footer a {
+    box-shadow: none;
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration-color: var(--primary-color);
+    text-decoration-thickness: 0.15rem;
+}
+
+.post-tags a:hover, .paginav a:hover {
+    background-color: var(--secondary-color-light);
+}
