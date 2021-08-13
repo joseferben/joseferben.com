@@ -19,68 +19,15 @@ exec dropbox &amp;amp; </description>
     </item>
     
     <item>
-      <title>Image captions</title>
-      <link>https://www.joseferben.com/posts/image-captions/</link>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Running Django Commands on AWS Elastic Beanstalk</title>
+      <link>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.joseferben.com/posts/image-captions/</guid>
-      <description>Figure captions with markup.</description>
-    </item>
-    
-    <item>
-      <title>Image links</title>
-      <link>https://www.joseferben.com/posts/image-links/</link>
-      <pubDate>Sat, 15 Jul 2017 07:49:44 -0400</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/image-links/</guid>
-      <description>This is some text before the first heading of this post.
-Unclickable image (works!) # Org source #+name: fig__unclickable_image #+caption: Don&amp;#39;t click this image -- It&amp;#39;s not a hyperlink [[/home/josef/01-org/images/flamingo.jpg]]     Figure 1: Don&amp;rsquo;t click this image &amp;ndash; It&amp;rsquo;s not a hyperlink
-   To be fixed (Now fixed): The sub-headings in a post get exported as Heading 1 instead of Heading 2.
-For example, this sub-section&amp;rsquo;s heading is exported as:</description>
-    </item>
-    
-    <item>
-      <title>Post 1</title>
-      <link>https://www.joseferben.com/posts/post-1/</link>
-      <pubDate>Wed, 12 Jul 2017 17:31:56 -0400</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/post-1/</guid>
-      <description>Export this first post only by bringing point here and doing M-x org-hugo-export-wim-to-md. Google</description>
-    </item>
-    
-    <item>
-      <title>Preparation</title>
-      <link>https://www.joseferben.com/posts/prep/</link>
-      <pubDate>Wed, 12 Jul 2017 17:05:38 -0400</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/prep/</guid>
-      <description>  Be the root directory for this Hugo site (the directory containing config.toml).
-  Run
-hugo server --port 1111   See the site served on &amp;ldquo;http://localhost:1111/&amp;rdquo;.
-  </description>
-    </item>
-    
-    <item>
-      <title>Inline hyperlinked and non-hyperlinked images</title>
-      <link>https://www.joseferben.com/posts/inline-images/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/inline-images/</guid>
-      <description>This tests the feature added to support proper export syntax for inline images &amp;ndash; ox-hugo Issue #125.
-Inline non-hyperlinked image No Alt text or any other attributes This is an inline non-hyperlinked image without alt text or other attributes: .
-With Alt text This is an inline non-hyperlinked image with alt text: .
-With other HTML attributes This is an inline non-hyperlinked image with the width attribute: .
-Non-inline non-hyperlinked image   Inline hyperlinked image No Alt text or any other attributes This is an inline non-hyperlinked image without alt text or other attributes: .</description>
-    </item>
-    
-    <item>
-      <title>Post 2</title>
-      <link>https://www.joseferben.com/posts/post-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/post-2/</guid>
-      <description>This post has no date.
-Export this second post only by bringing point here and doing M-x org-hugo-export-wim-to-md.</description>
+      <guid>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</guid>
+      <description>AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.
+When hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.
+You might want to fix your shell first.
+After connecting using SSH with</description>
     </item>
     
   </channel>
