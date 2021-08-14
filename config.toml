@@ -37,7 +37,7 @@ safari_pinned_tab = "/favicon/apple-touch-icon-180x180.png"
 [params.label]
 text = "Blog"
 icon = "/favicon/apple-touch-icon-180x180.png"
-iconHeight = 25
+iconHeight = 40
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
