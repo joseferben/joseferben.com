@@ -6,7 +6,18 @@
     <description>Recent content on Josef&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Anno 1404 Venice on Proton</title>
+      <link>https://www.joseferben.com/posts/play_anno_1404_venice_on_proton/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/play_anno_1404_venice_on_proton/</guid>
+      <description>In order to play Anno 1404 on Proton, follow these steps:
+Install DirectX WINEPREFIX=/home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/compatdata/33350/pfx wine /home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/common/Anno\ 1404/DirectX/DXSETUP.exe Edit Engine.ini file The content of the file
+/home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/common/Anno\ 1404/Engine.ini &amp;lt;InitFile&amp;gt; &amp;lt;DirectXVersion&amp;gt;9&amp;lt;/DirectXVersion&amp;gt; &amp;lt;UbiSurveyTime&amp;gt;-1&amp;lt;/UbiSurveyTime&amp;gt; &amp;lt;UbiSurveyTimeStatus&amp;gt;2&amp;lt;/UbiSurveyTimeStatus&amp;gt; &amp;lt;/InitFile&amp;gt; </description>
+    </item>
+    
     <item>
       <title>Autostart Dropbox on NixOS using I3WM</title>
       <link>https://www.joseferben.com/posts/autostart_dropbox_on_nixos/</link>
