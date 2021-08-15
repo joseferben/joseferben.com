@@ -13,9 +13,7 @@
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/autostart_dropbox_on_nixos/</guid>
-      <description>Install Dropbox using NixOS in your preferred way.
-At the top of your i3wm configuration file add
-exec dropbox &amp;amp; </description>
+      <description>&lt;p&gt;Install Dropbox using NixOS in your preferred way.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -13,9 +13,7 @@
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/play_anno_1404_venice_on_proton/</guid>
-      <description>In order to play Anno 1404 on Proton, follow these steps:
-Install DirectX WINEPREFIX=/home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/compatdata/33350/pfx wine /home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/common/Anno\ 1404/DirectX/DXSETUP.exe Edit Engine.ini file The content of the file
-/home/&amp;lt;user&amp;gt;/.local/share/Steam/steamapps/common/Anno\ 1404/Engine.ini &amp;lt;InitFile&amp;gt; &amp;lt;DirectXVersion&amp;gt;9&amp;lt;/DirectXVersion&amp;gt; &amp;lt;UbiSurveyTime&amp;gt;-1&amp;lt;/UbiSurveyTime&amp;gt; &amp;lt;UbiSurveyTimeStatus&amp;gt;2&amp;lt;/UbiSurveyTimeStatus&amp;gt; &amp;lt;/InitFile&amp;gt; </description>
+      <description>&lt;p&gt;In order to play Anno 1404 on &lt;a href=&#34;https://www.protondb.com/app/33350&#34;&gt;Proton&lt;/a&gt;, follow these steps.&lt;/p&gt;</description>
     </item>
     
   </channel>
