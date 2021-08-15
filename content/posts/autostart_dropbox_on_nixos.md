@@ -8,6 +8,8 @@ draft = false
 
 Install Dropbox using NixOS in your preferred way.
 
+<!--more-->
+
 At the top of your i3wm configuration file add
 
 ```conf

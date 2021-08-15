@@ -6,9 +6,11 @@ tags = ["django", "aws"]
 draft = false
 +++
 
-AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.
+When hosting Django applications on AWS Elastic Beanstalk, it is often required to run commands on the server to do some maintenance tasks.
 
-When hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.
+<!--more-->
+
+Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.
 
 You might want to fix your shell first.
 

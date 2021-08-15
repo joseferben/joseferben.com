@@ -16,11 +16,11 @@ disableXML = true
 minifyOutput = true
 
 [params]
-env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+env = "production"
 title = "Josef's Blog"
 description = "A blog about programming, startups and philosophy."
 keywords =["Blog", "Portfolio"]
-ShowToc = true
+ShowToc = false
 ShowPostNavLinks = true
 author = "Josef Erben"
 ShowCodeCopyButtons = true

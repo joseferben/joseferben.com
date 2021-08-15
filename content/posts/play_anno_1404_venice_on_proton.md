@@ -6,7 +6,9 @@ tags = ["game"]
 draft = false
 +++
 
-In order to play Anno 1404 on [Proton](https://www.protondb.com/app/33350), follow these steps:
+In order to play Anno 1404 on [Proton](https://www.protondb.com/app/33350), follow these steps.
+
+<!--more-->
 
 
 ## Install DirectX {#install-directx}
