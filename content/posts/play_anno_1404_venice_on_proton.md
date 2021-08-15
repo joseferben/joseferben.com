@@ -2,6 +2,7 @@
 title = "Play Anno 1404 Venice on Proton"
 author = ["Josef Erben"]
 date = 2021-08-15
+tags = ["game"]
 draft = false
 +++
 

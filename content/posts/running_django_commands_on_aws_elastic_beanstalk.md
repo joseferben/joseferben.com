@@ -2,6 +2,7 @@
 title = "Running Django Commands on AWS Elastic Beanstalk"
 author = ["Josef Erben"]
 date = 2021-08-13
+tags = ["django", "aws"]
 draft = false
 +++
 
