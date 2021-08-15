@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>aws on Josef&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/aws/</link>
+    <description>Recent content in aws on Josef&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Django Commands on AWS Elastic Beanstalk</title>
+      <link>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</guid>
+      <description>AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.
+When hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.
+You might want to fix your shell first.
+After connecting using SSH with</description>
+    </item>
+    
+  </channel>
+</rss>

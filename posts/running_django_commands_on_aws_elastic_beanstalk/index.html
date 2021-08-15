@@ -4,7 +4,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
 <title>Running Django Commands on AWS Elastic Beanstalk | Josef's Blog</title>
-<meta name=keywords content>
+<meta name=keywords content="django,aws">
 <meta name=description content="AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.
 When hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.
 You might want to fix your shell first.
@@ -41,7 +41,7 @@ When hosting Django applications, it is often required to run commands on the se
 You might want to fix your shell first.
 After connecting using SSH with">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":2,"name":"Posts","item":"https://www.joseferben.com/posts/"},{"@type":"ListItem","position":3,"name":"Running Django Commands on AWS Elastic Beanstalk","item":"https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Running Django Commands on AWS Elastic Beanstalk","name":"Running Django Commands on AWS Elastic Beanstalk","description":"AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.\nWhen hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.\nYou might want to fix your shell first.\nAfter connecting using SSH with","keywords":[],"articleBody":"AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.\nWhen hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.\nYou might want to fix your shell first.\nAfter connecting using SSH with\neb ssh load the environment variables using\nexport $(cat /opt/elasticbeanstalk/deployment/env | xargs) then load the Python environment using\nsource /var/app/venv and finally run your Django command\npython /var/app/current/manage.py runserver ","wordCount":"103","inLanguage":"en","datePublished":"2021-08-13T00:00:00Z","dateModified":"2021-08-13T00:00:00Z","author":[{"@type":"Person","name":"Josef Erben"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/"},"publisher":{"@type":"Organization","name":"Josef's Blog","logo":{"@type":"ImageObject","url":"https://www.joseferben.com/favicon/favicon-96x96.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Running Django Commands on AWS Elastic Beanstalk","name":"Running Django Commands on AWS Elastic Beanstalk","description":"AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.\nWhen hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.\nYou might want to fix your shell first.\nAfter connecting using SSH with","keywords":["django","aws"],"articleBody":"AWS Elastic Beanstalk is a service that takes care of setting up all the AWS resources to host a typical web app.\nWhen hosting Django applications, it is often required to run commands on the server to do some maintenance tasks. Beanstalk provisions EC2 instances which are running the web server processes. Django commands need to run in the same environment.\nYou might want to fix your shell first.\nAfter connecting using SSH with\neb ssh load the environment variables using\nexport $(cat /opt/elasticbeanstalk/deployment/env | xargs) then load the Python environment using\nsource /var/app/venv and finally run your Django command\npython /var/app/current/manage.py runserver ","wordCount":"103","inLanguage":"en","datePublished":"2021-08-13T00:00:00Z","dateModified":"2021-08-13T00:00:00Z","author":[{"@type":"Person","name":"Josef Erben"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/"},"publisher":{"@type":"Organization","name":"Josef's Blog","logo":{"@type":"ImageObject","url":"https://www.joseferben.com/favicon/favicon-96x96.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -94,6 +94,10 @@ Running Django Commands on AWS Elastic Beanstalk
 </code></pre></div>
 </div>
 <footer class=post-footer>
+<ul class=post-tags>
+<li><a href=https://www.joseferben.com/tags/django/>django</a></li>
+<li><a href=https://www.joseferben.com/tags/aws/>aws</a></li>
+</ul>
 <nav class=paginav>
 <a class=prev href=https://www.joseferben.com/posts/autostart_dropbox_on_nixos/>
 <span class=title>« Prev Page</span>
