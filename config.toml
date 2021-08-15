@@ -41,7 +41,7 @@ iconHeight = 40
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
-content = "I mostly write about [programming](/tags/programming), [building companies](/tags/startups) and [philosophy](/tags/philosophy). If that is not the case anymore I really should update this text."
+content = "At the moment this is collection of notes that are useful to me. Maybe it can grow into something that is useful to others too."
 
 [[params.socialIcons]]
 name = "github"
