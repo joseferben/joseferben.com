@@ -8,9 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to Generate Random Strings on Linux with In Line</title>
+      <link>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</guid>
+      <description>With following command you can print a random string of a certain length on Linux.
+tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c &amp;lt;length&amp;gt; ; echo &#39;&#39;
+The string is safe to use in most web contexts such as HTML forms or environment variables.</description>
+    </item>
+    
+    <item>
       <title>Hoarddit - A Website to Discover Art</title>
       <link>https://www.joseferben.com/posts/hoarddit_a_website_to_discover_art/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/hoarddit_a_website_to_discover_art/</guid>
       <description>This is a placeholder for an introductory blog post for hoarddit.com.</description>
@@ -42,6 +53,7 @@
       <guid>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</guid>
       <description>&lt;p&gt;When hosting Django applications on AWS Elastic Beanstalk, it is often required to run commands on the server to do some maintenance tasks.&lt;/p&gt;</description>
     </item>
+    
     
     
   </channel>
