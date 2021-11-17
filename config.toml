@@ -25,6 +25,7 @@ ShowPostNavLinks = true
 author = "Josef Erben"
 ShowCodeCopyButtons = true
 ShowShareButtons = true
+ShowReadingTime = true
 comments = true
 defaultTheme = "light"
 disableThemeToggle = true
@@ -69,15 +70,17 @@ url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
 SiteVerificationTag = "G-JHGX0765SG"
 
 [[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+[[menu.main]]
 identifier = "search"
 name = "Search"
 url = "/search/"
-
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/tags/project/"
-
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
