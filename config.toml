@@ -26,7 +26,7 @@ author = "Josef Erben"
 ShowCodeCopyButtons = true
 ShowShareButtons = true
 comments = true
-defaultTheme = "dark"
+defaultTheme = "light"
 disableThemeToggle = true
 
 [params.assets]
@@ -49,6 +49,9 @@ content = "I am Josef and these are my personal notes disguised as blog posts so
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/joseferben"
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.com/users/490443650623471617"
 [[params.socialIcons]]
 name = "twitch"
 url = "https://twitch.tv/joseferben"

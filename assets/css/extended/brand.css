@@ -22,12 +22,15 @@
     text-decoration-thickness: 0.10rem;
 }
 
-.footer a {
+.footer a:hover {
     box-shadow: none;
     border-bottom: none;
+}
+
+.footer a {
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.10rem;
+    text-decoration-thickness: 0.15rem;
 }
 
 .post-tags a:hover, .paginav a:hover {

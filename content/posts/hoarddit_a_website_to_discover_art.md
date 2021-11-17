@@ -1,5 +1,5 @@
 +++
-title = "Introducing Hoarddit - A Website to Discover Art"
+title = "Hoarddit - A Website to Discover Art"
 author = ["Josef Erben"]
 date = 2021-11-17
 tags = ["hoarddit", "project"]
