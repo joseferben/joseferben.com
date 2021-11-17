@@ -1,6 +1,6 @@
 baseURL = "https://www.joseferben.com"
 languageCode = "en-us"
-title = "Josef's Blog"
+title = "Josef Erben's Blog"
 paginate = 20
 theme = "PaperMod"
 
@@ -19,11 +19,12 @@ minifyOutput = true
 env = "production"
 title = "Josef's Blog"
 description = "A blog about programming, startups and philosophy."
-keywords =["Blog", "Portfolio"]
-ShowToc = false
+keywords =["Programming", "Entrepreneurship", "Gaming", "Philosophy", "Blog", "Portfolio"]
+showtoc = false
 ShowPostNavLinks = true
 author = "Josef Erben"
 ShowCodeCopyButtons = true
+ShowShareButtons = true
 comments = true
 
 [params.assets]
@@ -41,14 +42,17 @@ iconHeight = 40
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
-content = "At the moment this is collection of notes that are useful to me. Maybe it can grow into something that is useful to others too."
+content = "I am a creator and these are my personal notes disguised as blog posts."
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/jerben"
+url = "https://github.com/joseferben"
+[[params.socialIcons]]
+name = "twitch"
+url = "https://twitch.tv/joseferben"
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/_joseferben"
+url = "https://twitter.com/joseferben"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:josef@erben.io"
@@ -58,3 +62,8 @@ url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
 
 [params.analytics.google]
 SiteVerificationTag = "G-JHGX0765SG"
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
