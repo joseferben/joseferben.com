@@ -1,5 +1,5 @@
 +++
-title = "How to Generate Random Strings on Linux with In Line"
+title = "How to Generate Random Strings on Linux in One Line"
 author = ["Josef Erben"]
 date = 2021-11-17
 tags = ["linux"]
