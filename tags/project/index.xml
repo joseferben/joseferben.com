@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>project on Josef Erben&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/project/</link>
+    <description>Recent content in project on Josef Erben&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Hoarddit - A Website to Discover Art</title>
+      <link>https://www.joseferben.com/posts/introducing_hoarddit_a_website_to_discover_art/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/introducing_hoarddit_a_website_to_discover_art/</guid>
+      <description>This is a placeholder for an introductory blog post for hoarddit.com.</description>
+    </item>
+    
+  </channel>
+</rss>
