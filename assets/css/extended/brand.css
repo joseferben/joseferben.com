@@ -1,9 +1,10 @@
 :root {
     --primary-color: #FFAFCC;
     --primary-color-light: #FFC8DD;
-    --secondary-color: #A2D2FF;
-    --secondary-color-light: #BDE0FE;
-    --secondary-color-dark: #365573;
+    --primary-color-dark: #c98ba2;
+    --secondary-color: #AAAAAA;
+    --secondary-color-light: #DDDDDD;
+    --secondary-color-dark: #555555;
 }
 
 .post-content a {
@@ -18,7 +19,7 @@
     border-bottom: none;
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.15rem;
+    text-decoration-thickness: 0.10rem;
 }
 
 .footer a {
@@ -26,7 +27,7 @@
     border-bottom: none;
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.15rem;
+    text-decoration-thickness: 0.10rem;
 }
 
 .post-tags a:hover, .paginav a:hover {
@@ -35,4 +36,12 @@
 
 .dark .post-tags a:hover, .dark .paginav a:hover {
     background-color: var(--secondary-color-dark);
+}
+
+.share-buttons svg {
+    color: var(--primary-color);
+}
+
+#menu .active {
+    border-color: var(--primary-color);
 }

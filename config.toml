@@ -26,6 +26,8 @@ author = "Josef Erben"
 ShowCodeCopyButtons = true
 ShowShareButtons = true
 comments = true
+defaultTheme = "dark"
+disableThemeToggle = true
 
 [params.assets]
 disableHLJS = false
