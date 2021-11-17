@@ -36,13 +36,13 @@ apple_touch_icon = "/favicon/apple-touch-icon-180x180.png"
 safari_pinned_tab = "/favicon/apple-touch-icon-180x180.png"
 
 [params.label]
-text = "Blog"
-icon = "/favicon/apple-touch-icon-180x180.png"
-iconHeight = 40
+text = "'s Blog"
+icon = "/logo.png"
+iconHeight = 95
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
-content = "I am a creator and these are my personal notes disguised as blog posts."
+content = "I am Josef and these are my personal notes disguised as blog posts so I can pretend to have content for my blog."
 
 [[params.socialIcons]]
 name = "github"
@@ -64,6 +64,19 @@ url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
 SiteVerificationTag = "G-JHGX0765SG"
 
 [[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/tags/project/"
+
+[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
