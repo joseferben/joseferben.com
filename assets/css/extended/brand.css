@@ -19,7 +19,7 @@
     border-bottom: none;
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.10rem;
+    text-decoration-thickness: 0.15rem;
 }
 
 .footer a:hover {
