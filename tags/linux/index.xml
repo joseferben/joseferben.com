@@ -6,7 +6,16 @@
     <description>Recent content in linux on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Captive Portals in Coffee Shops and Hotels using Linux</title>
+      <link>https://www.joseferben.com/posts/captive_portfals_in_coffee_shops_and_hotels_using_linux/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/captive_portfals_in_coffee_shops_and_hotels_using_linux/</guid>
+      <description>&lt;p&gt;You sit in a cozy coffee place and you just finished your coffee. You are still not connected to the WiFi while the MacBooks and Surface devices around you have sent and received Gigabytes of data since you sat down. You are a Linux user.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>How to Generate Random Strings on Linux in One Line</title>
       <link>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</link>
@@ -14,8 +23,7 @@
       
       <guid>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</guid>
       <description>With following command you can print a random string of a certain length on Linux.
-tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c &amp;lt;length&amp;gt; ; echo &#39;&#39;
-The string is safe to use in most web contexts such as HTML forms or environment variables.</description>
+tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c &amp;lt;length&amp;gt; ; echo &amp;#39;&amp;#39; The string is safe to use in most web contexts such as HTML forms or environment variables.</description>
     </item>
     
     <item>
