@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.joseferben.com/tags/agda/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/aronwith1a_functional_programming_math_and_riddles/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/captive_portfals_in_coffee_shops_and_hotels_using_linux/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/functionalprogramming/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/haskell/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.joseferben.com/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.joseferben.com/tags/linux/</loc>
+    <loc>https://www.joseferben.com/tags/math/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.joseferben.com/tags/nixos/</loc>
+    <loc>https://www.joseferben.com/tags/maths/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/</loc>
@@ -17,16 +32,10 @@
     <loc>https://www.joseferben.com/tags/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.joseferben.com/posts/thinkpad_t14_with_nixos_and_i3wm/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/posts/captive_portfals_in_coffee_shops_and_hotels_using_linux/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/travel/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/linux/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/hoarddit/</loc>
@@ -51,6 +60,9 @@
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/django/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/nixos/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</loc>

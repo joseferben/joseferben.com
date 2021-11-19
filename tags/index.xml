@@ -8,29 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>agda</title>
+      <link>https://www.joseferben.com/tags/agda/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/agda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functionalprogramming</title>
+      <link>https://www.joseferben.com/tags/functionalprogramming/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/functionalprogramming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haskell</title>
+      <link>https://www.joseferben.com/tags/haskell/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://www.joseferben.com/tags/math/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maths</title>
+      <link>https://www.joseferben.com/tags/maths/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>linux</title>
       <link>https://www.joseferben.com/tags/linux/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nixos</title>
-      <link>https://www.joseferben.com/tags/nixos/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/tags/nixos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>https://www.joseferben.com/tags/travel/</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/tags/travel/</guid>
       <description></description>
     </item>
     
@@ -76,6 +103,15 @@
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nixos</title>
+      <link>https://www.joseferben.com/tags/nixos/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/nixos/</guid>
       <description></description>
     </item>
     

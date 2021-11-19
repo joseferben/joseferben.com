@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>haskell on Josef Erben&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/haskell/</link>
+    <description>Recent content in haskell on Josef Erben&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aronwith1a.com - Functional Programming, Math and Riddles</title>
+      <link>https://www.joseferben.com/posts/aronwith1a_functional_programming_math_and_riddles/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/aronwith1a_functional_programming_math_and_riddles/</guid>
+      <description>&lt;p&gt;I would like to give a quick shout out to &lt;del&gt;Aaron&lt;/del&gt; Aron and his blog &lt;a href=&#34;https://www.aronwith1a.com&#34;&gt;aronwith1a.com&lt;/a&gt;. This has nothing to do with the fact that I get to use the tags &lt;a href=&#34;https://www.joseferben.com/tags/haskell&#34;&gt;haskell&lt;/a&gt;, &lt;a href=&#34;https://www.joseferben.com/tags/maths/&#34;&gt;maths&lt;/a&gt; and &lt;a href=&#34;https://www.joseferben.com/tags/agda/&#34;&gt;agda&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
