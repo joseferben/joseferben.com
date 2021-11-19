@@ -1,7 +1,7 @@
 +++
 title = "Thinkpad T14 with NixOS and I3WM"
 author = ["Josef Erben"]
-date = 2021-11-19
+date = 2021-11-20
 tags = ["linux", "nixos"]
 draft = false
 +++
