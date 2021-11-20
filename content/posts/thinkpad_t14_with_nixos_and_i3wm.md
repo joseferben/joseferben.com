@@ -84,7 +84,7 @@ There was an [issue](https://forums.lenovo.com/t5/Other-Linux-Discussions/T14-AM
 
 The CPU is hands down my favorite part of the T14. It stays cool and fast. The only time when I hear the fans is when I create OCaml switches.
 
-It compiles [Sihl] in about 15 seconds.
+It compiles [Sihl](https://github.com/oxidizing/sihl) in about 15 seconds.
 
 
 ## Screen {#screen}
