@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinkpad T14 with NixOS and I3WM</title>
+      <link>https://www.joseferben.com/posts/thinkpad_t14_with_nixos_and_i3wm/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/thinkpad_t14_with_nixos_and_i3wm/</guid>
+      <description>&lt;p&gt;3 months ago I installed NixOS, i3wm and XFCE on my new Thinkpad T14 (1st Gen). It is my main machine that I use every day. In this blog post I summarize my experience with this setup.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>aronwith1a.com - Functional Programming, Math and Riddles</title>
       <link>https://www.joseferben.com/posts/aronwith1a_functional_programming_math_and_riddles/</link>
