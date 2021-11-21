@@ -2,7 +2,7 @@
 title = "Hoarddit - A Website to Discover Art"
 author = ["Josef Erben"]
 date = 2021-11-16
-tags = ["hoarddit", "project"]
+tags = ["django", "art", "hoarddit", "project"]
 draft = false
 +++
 
