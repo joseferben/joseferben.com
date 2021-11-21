@@ -6,7 +6,19 @@
     <description>Recent content in aws on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Fix Bash Autocompletion on Elastic Beanstalk When Using SSH</title>
+      <link>https://www.joseferben.com/posts/fix_bash_autocomplete_on_elastic_beanstalk_when_using_ssh/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/fix_bash_autocomplete_on_elastic_beanstalk_when_using_ssh/</guid>
+      <description>If you use urxvt to connect to your EC2 instance through Elastic Beanstalk, running
+eb ssh will give you a shell where autocomplete does not work.
+Fix that by running
+TERM=&#39;xterm-256color&#39; eb ssh </description>
+    </item>
+    
     <item>
       <title>Running Django Commands on AWS Elastic Beanstalk</title>
       <link>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</link>
