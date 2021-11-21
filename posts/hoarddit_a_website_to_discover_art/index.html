@@ -130,15 +130,15 @@ There is a market with art pieces, currently with about 50'000 unique pieces. So
 <p>Next, we wanted to implement the <em>like</em> feature. This involved an HTTP POST request. We did not do it inline, but separated the behavior from the markup. That went quite well, too. We were able to like and unlike art pieces within minutes.</p>
 <p>Implementing the buy and sell features went similarly. However, we started to notice a pattern, a pattern that we did not like.</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html>&lt;<span style=color:#f92672>svg</span>
-        <span style=color:#a6e22e>xmlns</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;http://www.w3.org/2000/svg&#34;</span>
-        <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;h-6 w-6&#34;</span>
-        <span style=color:#a6e22e>x-bind:fill</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;liked ? &#39;red&#39; : &#39;none&#39;&#34;</span>
-        <span style=color:#a6e22e>fill</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;{% if detail.liked %}red{% else %}none{% endif%}&#34;</span>
-        <span style=color:#a6e22e>viewBox</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;0 0 24 24&#34;</span>
-        <span style=color:#a6e22e>x-bind:stroke</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;liked ? &#39;red&#39; : &#39;currentColor&#39;&#34;</span>
-        <span style=color:#a6e22e>stroke</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;{% if detail.liked %}red{% else %}none{% endif%}&#34;</span>
-    &gt;
-...
+  <span style=color:#a6e22e>xmlns</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;http://www.w3.org/2000/svg&#34;</span>
+  <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;h-6 w-6&#34;</span>
+  <span style=color:#a6e22e>x-bind:fill</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;liked ? &#39;red&#39; : &#39;none&#39;&#34;</span>
+  <span style=color:#a6e22e>fill</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;{% if detail.liked %}red{% else %}none{% endif%}&#34;</span>
+  <span style=color:#a6e22e>viewBox</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;0 0 24 24&#34;</span>
+  <span style=color:#a6e22e>x-bind:stroke</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;liked ? &#39;red&#39; : &#39;currentColor&#39;&#34;</span>
+  <span style=color:#a6e22e>stroke</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;{% if detail.liked %}red{% else %}none{% endif%}&#34;</span>
+  &gt;
+  ...
 &lt;/<span style=color:#f92672>svg</span>&gt;
 </code></pre></div><p>It is true that with AlpineJS you get to use good old server side templates while you sprinkling some interactivity on top.</p>
 <p>For more complex use cases however, there will be a lot of duplication. Templating logic has to be written twice, once in the server side templating language and once in AlpineJS.</p>
