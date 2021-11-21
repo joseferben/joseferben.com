@@ -6,7 +6,7 @@ tags = ["hoarddit", "project"]
 draft = false
 +++
 
-Together with my SO we built [hoarddit.com](https://www.hoarddit.com), a website that helps everyone to discover art. It allows you to virtually trade art pieces. This post describes how we spent our innovation points and why hoarddit is not an NFT.
+Together with [my SO](https://www.instagram.com/tylmarple/) we built [hoarddit.com](https://www.hoarddit.com), a website that helps everyone to discover art. It allows you to virtually trade art pieces. This post describes how we spent our innovation points and why hoarddit is not an NFT.
 
 <!--more-->
 
