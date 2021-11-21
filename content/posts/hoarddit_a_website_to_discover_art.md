@@ -124,7 +124,7 @@ For more complex use cases however, there will be a lot of duplication. Templati
 
 Quickly we found ourselves googling terms such as _AlpineJS server side rendering_ hoping to find a solution on how to express the templates once and have Django and AlpineJS interpret them separately.
 
-A term that was used frequently a few years back was _isomorphic rendering_. This describes the template rendering process on the server and on the client being somewhat similar. If you use _isomorphic rendering_ with this wonky definition and a Haskeller is nearby, you did not read it on this blog!
+A term that was used frequently a few years back was _isomorphic rendering_. This describes the template rendering process on the server and on the client being somewhat similar. If you use the term _isomorphic rendering_ with this wonky definition and a Haskeller is nearby, you did not read it here!
 
 AlpineJS was a joy to use for little stateless elements like the navigation that opens and closes. Our use case seems to be too complex for it however.
 

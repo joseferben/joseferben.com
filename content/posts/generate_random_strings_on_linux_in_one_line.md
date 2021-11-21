@@ -6,10 +6,10 @@ tags = ["linux"]
 draft = false
 +++
 
-With following command you can print a random string of a certain `length` on Linux.
+With following command you can print a random string of a certain length on Linux.
 
 ```bash
-tr -dc A-Za-z0-9 </dev/urandom | head -c <length> ; echo ''
+tr -dc A-Za-z0-9 </dev/urandom | head -c 32 ; echo ''
 ```
 
 The string is safe to use in most web contexts such as HTML forms or environment variables.
