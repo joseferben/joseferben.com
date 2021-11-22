@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.joseferben.com/posts/ignoring_files_with_dropbox_on_linux/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/linux/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.joseferben.com/tags/aws/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/fix_bash_autocomplete_on_elastic_beanstalk_when_using_ssh/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/linux/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/posts/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/nixos/</loc>

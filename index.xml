@@ -6,7 +6,16 @@
     <description>Recent content on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ignoring Files with Dropbox on Linux</title>
+      <link>https://www.joseferben.com/posts/ignoring_files_with_dropbox_on_linux/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/ignoring_files_with_dropbox_on_linux/</guid>
+      <description>&lt;p&gt;On Linux you can set attributes to ignore files for syncing.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>How To Fix Bash Autocompletion on Elastic Beanstalk When Using SSH</title>
       <link>https://www.joseferben.com/posts/fix_bash_autocomplete_on_elastic_beanstalk_when_using_ssh/</link>
