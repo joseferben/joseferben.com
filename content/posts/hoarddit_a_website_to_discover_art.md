@@ -80,6 +80,17 @@ Email sending uses the generous free tier of [Mailjet](https://www.mailjet.com/)
 This is the final picture, but it was a process to end up with this stack. A process that involved spending some innovation points.
 
 
+### Update 22.11.2021 {#update-22-dot-11-dot-2021}
+
+We should at this point define _innovation points_.
+
+In a project, we usually try to find a good balance between trying out new innovative (and potentially more productive) ways to do something and just getting things done. We tend to innovate/tinker/experiment too much and that's why we give ourselves a limited amount of innovation points that that we can spend within a project.
+
+While developing hoarddit, we decided to try out new things on the UI side, so that is where we spent most of the innovation points.
+
+Of course that is more of a mental model and there are no actual points :)
+
+
 ## Spending Innovation Points Deliberately {#spending-innovation-points-deliberately}
 
 Early on during development, it became clear to us that hoarddit had some dynamic elements.
