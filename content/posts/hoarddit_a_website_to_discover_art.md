@@ -11,6 +11,24 @@ Together with [my SO](https://www.instagram.com/tylmarple/) we built [hoarddit.c
 <!--more-->
 
 
+### Table of Contents {#table-of-contents}
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+- [The Core Mechanics](#the-core-mechanics)
+- [The Feeling of Collecting](#the-feeling-of-collecting)
+- [Is It an NFT?](#is-it-an-nft)
+- [Boring Technology](#boring-technology)
+- [Spending Innovation Points Deliberately](#spending-innovation-points-deliberately)
+- [Summary](#summary)
+
+</div>
+<!--endtoc-->
+
+
 ## The Core Mechanics {#the-core-mechanics}
 
 ![](/ox-hugo/intro.gif)
