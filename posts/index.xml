@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>How To Fix Bash Autocompletion on Elastic Beanstalk When Using SSH</title>
+      <title>Fixing Bash Autocompletion on Elastic Beanstalk When Using SSH</title>
       <link>https://www.joseferben.com/posts/fix_bash_autocomplete_on_elastic_beanstalk_when_using_ssh/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
@@ -25,7 +25,7 @@
       <description>If you use urxvt to connect to your EC2 instance through Elastic Beanstalk, running
 eb ssh will give you a shell where autocomplete does not work.
 Fix that by running
-TERM=&#39;xterm-256color&#39; eb ssh </description>
+TERM=&amp;#39;xterm-256color&amp;#39; eb ssh </description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ TERM=&#39;xterm-256color&#39; eb ssh </description>
     </item>
     
     <item>
-      <title>How to Generate Random Strings on Linux in One Line</title>
+      <title>Generating Random Strings on Linux in One Line</title>
       <link>https://www.joseferben.com/posts/generate_random_strings_on_linux_in_one_line/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
@@ -75,7 +75,7 @@ tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c 32 ; echo &amp;#39;&amp;#39; The
     </item>
     
     <item>
-      <title>Play Anno 1404 Venice on Proton</title>
+      <title>Playing Anno 1404 Venice on Proton</title>
       <link>https://www.joseferben.com/posts/play_anno_1404_venice_on_proton/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
