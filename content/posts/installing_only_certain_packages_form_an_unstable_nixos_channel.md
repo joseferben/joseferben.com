@@ -3,12 +3,16 @@ title = "Installing Only Certain Packages from Unstable on NixOS"
 author = ["Josef Erben"]
 date = 2021-11-23
 tags = ["linux", "nixos"]
-draft = true
+draft = false
 +++
 
-This is how you can mainly run on a stable NixOS channel and still use some packages from unstable:
+Following the [NixOS installation](https://nixos.org/manual/nixos/stable/index.html#ch-installation) guide I ended up with a setup using a stable NixOS channel that just keeps giving. Sometimes however, it can be necessary to include packages from an unstable channel.
 
-```nil
+<!--more-->
+
+This is the snippet that you can use in your nix configuration if you want to install unstable neovim:
+
+```nix
 { config, pkgs, ... }:
 let
   unstableTarball =
