@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>django on Josef Erben&#39;s Blog</title>
-    <link>https://www.joseferben.com/tags/django/</link>
-    <description>Recent content in django on Josef Erben&#39;s Blog</description>
+    <title>art on Josef Erben&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/art/</link>
+    <description>Recent content in art on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoarddit - A Website to Discover Art</title>
       <link>https://www.joseferben.com/posts/hoarddit_a_website_to_discover_art/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://www.joseferben.com/posts/hoarddit_a_website_to_discover_art/</guid>
       <description>&lt;p&gt;Together with &lt;a href=&#34;https://www.instagram.com/tylmarple/&#34;&gt;my SO&lt;/a&gt; we built &lt;a href=&#34;https://www.hoarddit.com&#34;&gt;hoarddit.com&lt;/a&gt;, a website that helps everyone to discover art. It allows you to virtually trade art pieces. This post describes how we spent our innovation points and why hoarddit is not an NFT.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Running Django Commands on AWS Elastic Beanstalk</title>
-      <link>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/posts/running_django_commands_on_aws_elastic_beanstalk/</guid>
-      <description>&lt;p&gt;When hosting Django applications on AWS Elastic Beanstalk, it is often required to run commands on the server to do some maintenance tasks.&lt;/p&gt;</description>
     </item>
     
   </channel>
