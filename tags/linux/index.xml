@@ -6,7 +6,16 @@
     <description>Recent content in linux on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Only Certain Packages from Unstable on NixOS</title>
+      <link>https://www.joseferben.com/posts/installing_only_certain_packages_form_an_unstable_nixos_channel/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/installing_only_certain_packages_form_an_unstable_nixos_channel/</guid>
+      <description>&lt;p&gt;Following the &lt;a href=&#34;https://nixos.org/manual/nixos/stable/index.html#ch-installation&#34;&gt;NixOS installation&lt;/a&gt; guide I ended up with a setup using a stable NixOS channel that just keeps giving. Sometimes however, it can be necessary to include packages from an unstable channel.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Ignoring Files with Dropbox on Linux</title>
       <link>https://www.joseferben.com/posts/ignoring_files_with_dropbox_on_linux/</link>
