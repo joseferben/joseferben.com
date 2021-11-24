@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.joseferben.com/posts/installing_only_certain_packages_form_an_unstable_nixos_channel/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joseferben.com/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/linux/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/nixos/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/upgrading_nixos_channels/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/installing_only_certain_packages_form_an_unstable_nixos_channel/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/ignoring_files_with_dropbox_on_linux/</loc>

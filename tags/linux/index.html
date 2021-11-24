@@ -72,6 +72,22 @@
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Upgrading NixOS Channels
+</h2>
+</header>
+<section class=entry-content>
+<p>Upgrading NixOS so that it uses a different channel is simple.
+When you run following command as root:
+nix-channel --list You should see a list of channels. If you did not touch channels so far, you should see this:
+nixos https://nixos.org/channels/nixos-21.05 By running the following command (as root):
+nix-channel --add https://nixos.org/channels/&lt;channel version> nixos you will remove the 21.05 channel and replace it with .
+To apply the change, you need to run following command:...</p>
+</section>
+<footer class=entry-footer><span title="2021-11-24 00:00:00 +0000 UTC">November 24, 2021</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Josef Erben</footer>
+<a class=entry-link aria-label="post link to Upgrading NixOS Channels" href=https://www.joseferben.com/posts/upgrading_nixos_channels/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Installing Only Certain Packages from Unstable on NixOS
 </h2>
 </header>
