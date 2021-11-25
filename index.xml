@@ -6,7 +6,16 @@
     <description>Recent content on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recovering Dokku Postgres Backups</title>
+      <link>https://www.joseferben.com/posts/recovering_dokku_postgres_backups/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/recovering_dokku_postgres_backups/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dokku.com/&#34;&gt;Dokku&lt;/a&gt; with its Postgres plugin can be used to manage Postgres databases, this includes &lt;a href=&#34;https://github.com/dokku/dokku-postgres#backups&#34;&gt;automated backups&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Upgrading NixOS Channels</title>
       <link>https://www.joseferben.com/posts/upgrading_nixos_channels/</link>
