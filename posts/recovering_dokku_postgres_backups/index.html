@@ -83,16 +83,16 @@ Recovering Dokku Postgres Backups
 <p>Once automated backups are implemented, you end up having encrypted database dumps in your backup location (which usually is some S3 storage). These are the steps needed to decrypt, unpack and apply the backups to Postgres instance managed by Dokku that the backup was created of.</p>
 <ul>
 <li>
-<p><code>gpg --pinentry-mode=loopback --passphrase "&lt;passphrase>" -d -o &lt;outfile>.tgz &lt;backup>.tgz.gpg</code></p>
+<p><code>gpg --pinentry-mode=loopback --passphrase "&lt;passphrase>" -d -o &lt;decrypted>.tgz &lt;encrypted>.tgz.gpg</code></p>
 </li>
 <li>
-<p><code>mkdir &lt;output></code></p>
+<p><code>mkdir &lt;backup></code></p>
 </li>
 <li>
-<p><code>tar zxvf &lt;backup>.tgz -C &lt;output></code></p>
+<p><code>tar zxvf &lt;decrypted>.tgz -C &lt;backup></code></p>
 </li>
 <li>
-<p><code>docker exec -i &lt;container_name> pg_restore -U admin -d dev --no-owner &lt; &lt;dump.sql></code></p>
+<p><code>docker exec -i &lt;container_name> pg_restore -U admin -d dev --no-owner &lt; &lt;backup></code></p>
 <p>I feel like these steps could be part of the great <a href=https://github.com/dokku/dokku-postgres#backups>Dokku Postgres Plugin</a>.</p>
 </li>
 </ul>
