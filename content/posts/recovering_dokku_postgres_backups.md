@@ -17,4 +17,4 @@ Once automated backups are implemented, you end up having encrypted database dum
 -   `tar zxvf <decrypted>.tgz -C <backup>`
 -   `docker exec -i <container_name> pg_restore -U admin -d dev --no-owner < <backup>`
 
-    I feel like these steps could be part of the great [Dokku Postgres Plugin](https://github.com/dokku/dokku-postgres#backups).
+    I feel like these steps could be part of the great [Dokku Postgres Plugin](https://github.com/dokku/dokku-postgres).
