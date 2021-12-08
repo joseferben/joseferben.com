@@ -53,11 +53,9 @@ This is essentially my custom Python layer that supports
 -   local virtualenv
 -   highlighting indentation
 
-    and probably even more.
+and probably even more.
 
-    I omitted the configuration of generic packages such as company or flycheck.
-
-<!--listend-->
+I omitted the configuration of generic packages such as company or flycheck.
 
 ```elisp
 (use-package python-black
