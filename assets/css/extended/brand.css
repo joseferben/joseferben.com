@@ -11,7 +11,7 @@
     box-shadow: none;
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.25rem;
+    text-decoration-thickness: 0.15rem;
 }
 
 .entry-content a {
@@ -28,9 +28,10 @@
 }
 
 .footer a {
+    border: 0;
     text-decoration: underline;
     text-decoration-color: var(--primary-color);
-    text-decoration-thickness: 0.15rem;
+    text-decoration-thickness: 0.10rem;
 }
 
 .post-tags a:hover, .paginav a:hover {
