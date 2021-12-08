@@ -6,7 +6,16 @@
     <description>Recent content on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching from elpy to anaconda-mode</title>
+      <link>https://www.joseferben.com/posts/switching_from_elpy_to_anaconda_mode/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/switching_from_elpy_to_anaconda_mode/</guid>
+      <description>&lt;p&gt;I am using Emacs with &lt;a href=&#34;https://github.com/jorgenschaefer/elpy&#34;&gt;elpy&lt;/a&gt; as my Python IDE. Minor issues that appeared lately made me explore other options for developing Python in Emacs. I ended up switching to a custom configuration based on &lt;a href=&#34;https://github.com/pythonic-emacs/anaconda-mode&#34;&gt;anaconda-mode.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Replacing Dropbox With Syncthing</title>
       <link>https://www.joseferben.com/posts/replacing_dropbox_with_syncthing/</link>

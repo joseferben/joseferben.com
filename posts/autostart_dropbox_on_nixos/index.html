@@ -35,7 +35,7 @@
 <meta name=twitter:title content="Autostart Dropbox on NixOS using I3WM">
 <meta name=twitter:description content="Install Dropbox using NixOS in your preferred way.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":2,"name":"Posts","item":"https://www.joseferben.com/posts/"},{"@type":"ListItem","position":3,"name":"Autostart Dropbox on NixOS using I3WM","item":"https://www.joseferben.com/posts/autostart_dropbox_on_nixos/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Autostart Dropbox on NixOS using I3WM","name":"Autostart Dropbox on NixOS using I3WM","description":"Install Dropbox using NixOS in your preferred way.\n","keywords":["linux","nixos"],"articleBody":"Install Dropbox using NixOS in your preferred way.\nAt the top of your i3wm configuration file add\nexec dropbox \u0026 nix-shell -p wineWowPackages.stable ‘winetricks.override { wine = wineWowPackages.staging; }’ WINEPREFIX=/home/josef/.steam/steam/steamapps/compatdata/33350/pfx winetricks d3dx9\n","wordCount":"32","inLanguage":"en","datePublished":"2021-08-13T00:00:00Z","dateModified":"2021-08-13T00:00:00Z","author":[{"@type":"Person","name":"Josef Erben"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.joseferben.com/posts/autostart_dropbox_on_nixos/"},"publisher":{"@type":"Organization","name":"Josef Erben's Blog","logo":{"@type":"ImageObject","url":"https://www.joseferben.com/favicon/favicon-96x96.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Autostart Dropbox on NixOS using I3WM","name":"Autostart Dropbox on NixOS using I3WM","description":"Install Dropbox using NixOS in your preferred way.\n","keywords":["linux","nixos"],"articleBody":"Install Dropbox using NixOS in your preferred way.\nAt the top of your i3wm configuration file add\nexec dropbox \u0026 ","wordCount":"20","inLanguage":"en","datePublished":"2021-08-13T00:00:00Z","dateModified":"2021-08-13T00:00:00Z","author":[{"@type":"Person","name":"Josef Erben"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.joseferben.com/posts/autostart_dropbox_on_nixos/"},"publisher":{"@type":"Organization","name":"Josef Erben's Blog","logo":{"@type":"ImageObject","url":"https://www.joseferben.com/favicon/favicon-96x96.ico"}}}</script>
 </head>
 <body id=top>
 <header class=header>
@@ -82,8 +82,7 @@ Autostart Dropbox on NixOS using I3WM
 <div class=post-content><p>Install Dropbox using NixOS in your preferred way.</p>
 <p>At the top of your i3wm configuration file add</p>
 <pre tabindex=0><code class=language-conf data-lang=conf>exec dropbox &amp;
-</code></pre><p>nix-shell -p wineWowPackages.stable &lsquo;winetricks.override { wine = wineWowPackages.staging; }&rsquo;
-WINEPREFIX=/home/josef/.steam/steam/steamapps/compatdata/33350/pfx winetricks d3dx9</p>
+</code></pre>
 </div>
 <footer class=post-footer>
 <ul class=post-tags>

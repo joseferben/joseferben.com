@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>emacs on Josef Erben&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/emacs/</link>
+    <description>Recent content in emacs on Josef Erben&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching from elpy to anaconda-mode</title>
+      <link>https://www.joseferben.com/posts/switching_from_elpy_to_anaconda_mode/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/switching_from_elpy_to_anaconda_mode/</guid>
+      <description>&lt;p&gt;I am using Emacs with &lt;a href=&#34;https://github.com/jorgenschaefer/elpy&#34;&gt;elpy&lt;/a&gt; as my Python IDE. Minor issues that appeared lately made me explore other options for developing Python in Emacs. I ended up switching to a custom configuration based on &lt;a href=&#34;https://github.com/pythonic-emacs/anaconda-mode&#34;&gt;anaconda-mode.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
