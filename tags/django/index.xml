@@ -6,7 +6,16 @@
     <description>Recent content in django on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schablone - A Lightweight Alternative to cookiecutter-django</title>
+      <link>https://www.joseferben.com/posts/schablone_a_lightweight_alternative_to_cookiecutter_django/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/schablone_a_lightweight_alternative_to_cookiecutter_django/</guid>
+      <description>&lt;p&gt;Schablone is a minimal boilerplate project for Django with strong opinions and little options for customization.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hoarddit - A Website to Discover Art</title>
       <link>https://www.joseferben.com/posts/hoarddit_a_website_to_discover_art/</link>
