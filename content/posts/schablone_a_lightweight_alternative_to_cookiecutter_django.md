@@ -6,11 +6,11 @@ tags = ["python", "django", "project"]
 draft = false
 +++
 
-Schablone is a minimal boilerplate project for Django with strong opinions and little options for customization.
+I am happy to announce [Schablone](<https://github.com/joseferben/schablone>). Schablone is a minimal boilerplate project for Django with strong opinions and little options for customization.
 
 <!--more-->
 
-I am happy to announce [Schablone](<https://github.com/joseferben/schablone>). It is a [cookiecutter](<https://github.com/cookiecutter/cookiecutter>) project that is heavily inspired by the famous [django-cookiecutter](<https://github.com/cookiecutter/cookiecutter-django>).
+Schablone is a [cookiecutter](<https://github.com/cookiecutter/cookiecutter>) project that is heavily inspired by the famous [django-cookiecutter](<https://github.com/cookiecutter/cookiecutter-django>).
 
 Schablone makes some pretty strong assumptions. It will speed up your app creation if you agree with them. I won't go into details in this post because the project's README.md does that already.
 
