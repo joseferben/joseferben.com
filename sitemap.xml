@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.joseferben.com/tags/django/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+    <loc>https://www.joseferben.com/posts/associated_press_stylebook_title_capitalization/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/django/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/tags/project/</loc>

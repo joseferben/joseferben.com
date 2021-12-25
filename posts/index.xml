@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Associated Press Stylebook Title Capitalization</title>
+      <link>https://www.joseferben.com/posts/associated_press_stylebook_title_capitalization/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/associated_press_stylebook_title_capitalization/</guid>
+      <description>&lt;p&gt;I am a native German speaker who reads English articles on a daily basis. Whenever I write an English title myself, I struggle with the correct capitalization.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Schablone - A Lightweight Alternative to cookiecutter-django</title>
       <link>https://www.joseferben.com/posts/schablone_a_lightweight_alternative_to_cookiecutter_django/</link>
@@ -53,7 +62,7 @@
 When you run following command as root:
 nix-channel --list You should see a list of channels. If you did not touch channels so far, you should see this:
 nixos https://nixos.org/channels/nixos-21.05 By running the following command (as root):
-nix-channel --add https://nixos.org/channels/&amp;lt;channel version&amp;gt; nixos you will remove the 21.05 channel and replace it with .
+nix-channel --add https://nixos.org/channels/&amp;lt;channel version&amp;gt; nixos you will remove the 21.05 channel and replace it with &amp;lt;channel version&amp;gt;.
 To apply the change, you need to run following command:</description>
     </item>
     
