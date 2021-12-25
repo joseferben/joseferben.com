@@ -26,7 +26,7 @@ By running the following command (as root):
 nix-channel --add https://nixos.org/channels/<channel version> nixos
 ```
 
-you will remove the 21.05 channel and replace it with <channel version>.
+you will remove the 21.05 channel and replace it with &lt;channel version&gt;.
 
 To apply the change, you need to run following command:
 
