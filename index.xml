@@ -6,7 +6,19 @@
     <description>Recent content on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reloading Flycheck After Loading Virtualenv</title>
+      <link>https://www.joseferben.com/posts/reloading_flycheck_after_loading_virtualenv/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/reloading_flycheck_after_loading_virtualenv/</guid>
+      <description>When I open Emacs to edit a Python project, the first command I run is pyvenv-activate to activate the virtualenv.
+If I have a Python file open of that project before running pyvenv-activate, flycheck won&amp;rsquo;t work because I install my development dependencies (which are needed by the checkers) in the local virtualenv.
+Luckily pyvenv provides a hook that runs whenever a virtualenv was activated.
+(defun clear-flycheck-auto-disabled-checkers () &amp;#34;Clears any automatically disabled flycheck checkers.</description>
+    </item>
+    
     <item>
       <title>How To Bypass Cloudlfare Access For WebPageTest</title>
       <link>https://www.joseferben.com/posts/how_to_bypass_cloudflare_access_for_webpagetest/</link>
