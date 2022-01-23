@@ -2,6 +2,7 @@
 title = "The Evolution of a Django Project"
 author = ["Josef Erben"]
 date = 2021-12-25
+publishDate = 2022-01-25T00:00:00+01:00
 tags = ["django", "python"]
 draft = true
 +++
@@ -119,4 +120,4 @@ Steps to identify apps.
 
 ## No Silver Bullet {#no-silver-bullet}
 
--   no one size fits all solution, your mileage may vary, schablone could help you do this
+-   no one size fits all solution, your mileage may vary, schablone could help you do thi

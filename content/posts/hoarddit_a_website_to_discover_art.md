@@ -14,7 +14,6 @@ Together with [my SO](https://www.instagram.com/tylmarple/) we built [hoarddit.c
 ### Table of Contents {#table-of-contents}
 
 <div class="ox-hugo-toc toc">
-<div></div>
 
 <div class="heading">Table of Contents</div>
 
@@ -210,7 +209,7 @@ This is how the markup of the _like_ feature looks like:
 
 HTMX truly feels like an extension of HTML, something that should have been standardized and included in HTML a while ago.
 
-There seems to be a movement towards server side rendering + smartness like [Liveview](https://hexdocs.pm/phoenix%5Flive%5Fview/Phoenix.LiveView.html), [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor), [Livewire](https://laravel-livewire.com) and [Hotwire](https://hotwired.dev/).
+There seems to be a movement towards server side rendering + smartness like [Liveview](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html), [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor), [Livewire](https://laravel-livewire.com) and [Hotwire](https://hotwired.dev/).
 
 To this date, HTMX is powering the dynamic and interactive elements of hoarddit. There is a bit of custom JavaScript that allows the user to like a picture by double tap or the rendering of price charts.
 

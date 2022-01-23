@@ -6,7 +6,7 @@ tags = ["linux"]
 draft = false
 +++
 
-Dropbox has [some well known issues](https://200ok.ch/posts/2019-11-24%5Ftrigger%5Fdropbox%5Fon%5Flinux%5Fafter%5Fsuspend%5Fhibernate.html) on Linux which made me look at alternatives. I found an alternative that I am very happy with.
+Dropbox has [some well known issues](https://200ok.ch/posts/2019-11-24_trigger_dropbox_on_linux_after_suspend_hibernate.html) on Linux which made me look at alternatives. I found an alternative that I am very happy with.
 
 <!--more-->
 

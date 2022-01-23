@@ -14,4 +14,4 @@ Schablone is a [cookiecutter](<https://github.com/cookiecutter/cookiecutter>) pr
 
 Schablone makes some pretty strong assumptions. It will speed up your app creation if you agree with them. I won't go into details in this post because the project's README.md does that already.
 
-The deployment is documented in the generated project's [README.md](<https://github.com/joseferben/schablone/blob/main/%7B%7Bcookiecutter.project%5Fslug%7D%7D/README.md>).
+The deployment is documented in the generated project's [README.md](<https://github.com/joseferben/schablone/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/README.md>).

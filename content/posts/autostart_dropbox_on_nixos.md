@@ -12,6 +12,6 @@ Install Dropbox using NixOS in your preferred way.
 
 At the top of your i3wm configuration file add
 
-```conf
+```cfg
 exec dropbox &
 ```
