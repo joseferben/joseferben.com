@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix Autostart On XFCE</title>
+      <link>https://www.joseferben.com/posts/fix_autostart_on_xfce/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/fix_autostart_on_xfce/</guid>
+      <description>&lt;p&gt;It took me three months and five attempts to fix this issues. Upon reboot two terminal panes and one Emacs instance autostarted and I didn&amp;rsquo;t know why.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Reloading Flycheck After Loading Virtualenv</title>
       <link>https://www.joseferben.com/posts/reloading_flycheck_after_loading_virtualenv/</link>
@@ -61,7 +70,7 @@ Luckily pyvenv provides a hook that runs whenever a virtualenv was activated.
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/replacing_dropbox_with_syncthing/</guid>
-      <description>&lt;p&gt;Dropbox has &lt;a href=&#34;https://200ok.ch/posts/2019-11-24%5Ftrigger%5Fdropbox%5Fon%5Flinux%5Fafter%5Fsuspend%5Fhibernate.html&#34;&gt;some well known issues&lt;/a&gt; on Linux which made me look at alternatives. I found an alternative that I am very happy with.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dropbox has &lt;a href=&#34;https://200ok.ch/posts/2019-11-24_trigger_dropbox_on_linux_after_suspend_hibernate.html&#34;&gt;some well known issues&lt;/a&gt; on Linux which made me look at alternatives. I found an alternative that I am very happy with.&lt;/p&gt;</description>
     </item>
     
     <item>
