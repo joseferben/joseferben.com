@@ -25,7 +25,7 @@
       <description>When I open Emacs to edit a Python project, the first command I run is pyvenv-activate to activate the virtualenv.
 If I have a Python file open of that project before running pyvenv-activate, flycheck won&amp;rsquo;t work because I install my development dependencies (which are needed by the checkers) in the local virtualenv.
 Luckily pyvenv provides a hook that runs whenever a virtualenv was activated.
-(defun clear-flycheck-auto-disabled-checkers () &amp;#34;Clears any automatically disabled flycheck checkers.</description>
+(defun clear-flycheck-auto-disabled-checkers ()  &amp;#34;Clears any automatically disabled flycheck checkers.</description>
     </item>
     
     <item>
