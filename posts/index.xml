@@ -13,8 +13,7 @@
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/update-nixos-packages-individually/</guid>
-      <description>This is how you can selectively install packages from a specific commit or branch.
-let  # unstable channel can be used to install out-of-date packages  unstable = import  (builtins.fetchTarball https://github.com/nixos/nixpkgs/tarball/2310213ab2c8e00c931d60cd32f6bc1ecf1a1f15)  # reuse the current configuration  { config = config.nixpkgs.config; }; in environment.systemPackages = with pkgs; [  ...  unstable.signal-desktop  ... ] </description>
+      <description>&lt;p&gt;This is how you can selectively install packages from a specific commit or branch.&lt;/p&gt;</description>
     </item>
     
     <item>
