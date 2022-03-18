@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Josef Erben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update NixOS packages individually</title>
+      <link>https://www.joseferben.com/posts/update-nixos-packages-individually/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/update-nixos-packages-individually/</guid>
+      <description>This is how you can selectively install packages from a specific commit or branch.
+let  # unstable channel can be used to install out-of-date packages  unstable = import  (builtins.fetchTarball https://github.com/nixos/nixpkgs/tarball/2310213ab2c8e00c931d60cd32f6bc1ecf1a1f15)  # reuse the current configuration  { config = config.nixpkgs.config; }; in environment.systemPackages = with pkgs; [  ...  unstable.signal-desktop  ... ] </description>
+    </item>
+    
     <item>
       <title>Fix Autostart On XFCE</title>
       <link>https://www.joseferben.com/posts/fix_autostart_on_xfce/</link>
