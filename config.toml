@@ -1,6 +1,6 @@
 baseURL = "https://www.joseferben.com"
 languageCode = "en-us"
-title = "Josef Erben's Blog"
+title = "Josef's Blog"
 paginate = 20
 theme = "PaperMod"
 
@@ -18,7 +18,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Josef's Blog"
-description = "A blog about programming, startups and philosophy."
+description = "A blog about programming, creating things and philosophy."
 keywords =["Programming", "Entrepreneurship", "Gaming", "Philosophy", "Blog", "Portfolio"]
 showtoc = false
 ShowPostNavLinks = true
