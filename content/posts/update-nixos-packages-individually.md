@@ -8,6 +8,8 @@ draft = false
 
 This is how you can selectively install packages from a specific commit or branch.
 
+<!--more-->
+
 ```nix
 let
   # unstable channel can be used to install out-of-date packages
