@@ -2,10 +2,11 @@
 title = "The Evolution of a Django Project"
 author = ["Josef Erben"]
 date = 2021-12-25
-publishDate = 2022-01-25T00:00:00+01:00
 tags = ["django", "python"]
 draft = true
 +++
+
+-   <https://www.reddit.com/r/rails/comments/ssbps0/no_silver_buckets/>
 
 Most of the Django style guides I have seen give solid advice on how to structure Django projects. However, very few consider the evolution of the project structure over time. In this post I document my current approach.
 
