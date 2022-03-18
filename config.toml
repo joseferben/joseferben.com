@@ -43,7 +43,7 @@ iconHeight = 95
 
 [params.homeInfoparams]
 Title = "Hi there \U0001F44B"
-content = "I am Josef and these are my personal notes disguised as blog posts so I can pretend to have actual content on my blog. I like to [create](/tags/project/) things."
+content = "I am Josef and these are my personal notes disguised as blog posts. Here and there you might find an actual blog post. I like to [create](/tags/project/) things."
 
 [[params.socialIcons]]
 name = "github"
