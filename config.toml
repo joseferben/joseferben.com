@@ -39,8 +39,6 @@ apple_touch_icon = "/favicon/apple-touch-icon-180x180.png"
 safari_pinned_tab = "/favicon/apple-touch-icon-180x180.png"
 
 [params.label]
-text = "'s Blog"
-icon = "/logo.png"
 iconHeight = 95
 
 [params.homeInfoparams]
