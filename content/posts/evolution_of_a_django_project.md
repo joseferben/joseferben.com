@@ -1,5 +1,5 @@
 +++
-title = "The Evolution of a Django Project"
+title = "The evolution of a Django project"
 author = ["Josef Erben"]
 date = 2021-12-25
 tags = ["django", "python"]
