@@ -40,7 +40,7 @@ Don't get me wrong, I don't copy and paste a code snippet without exactly unders
 Things changed and I am starting to remember these things because wasting minutes scrolling through SEO spam _is not worth it_. Back when I was able to find exactly what I needed in _seconds_, Google Search was my general purpose cheat sheet. Today, I've adjusted:
 
 -   I have invested in better tooling to jump reliably into library code and to get inline documentation for dynamic languages
--   I take notes, essentially building my own knowledge base that slowly trickles into my brain
+-   I [take notes](https://github.com/joseferben/memb), essentially building my own knowledge base that slowly trickles into my brain
 -   I started exploring my own tools deeper using self documentation if available
 -   I search very specific communities using Google
 
