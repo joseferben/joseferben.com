@@ -5,7 +5,7 @@ date = 2022-03-23
 draft = false
 +++
 
-It hit me that the recent [decline of the Google search result quality](https://twitter.com/mwseibel/status/1477701120319361026) is making me a better programmer by changing habits that I had for years. The title should be read as "How _lack of_ Google Search is making me a better programmer".
+It hit me that the recent [decline of the Google Search result quality](https://twitter.com/mwseibel/status/1477701120319361026) is making me a better programmer by changing habits that I had for years. The title should be read as "How _lack of_ Google Search is making me a better programmer".
 
 <!--more-->
 
