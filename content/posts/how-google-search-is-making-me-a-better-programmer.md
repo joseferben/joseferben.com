@@ -16,7 +16,7 @@ Up until October 2021, my daily driver as a programmer was an exotic mix of OCam
 
 One could make an argument that the average OCaml programmer has more experience than the average JavaScript programmer. However, there are probably an order of magnitude more experienced JavaScript programmers than there are experienced OCaml programmers in absolute numbers. If both groups are equally active in forums and discussions, there should be much more high quality content / answers about regarding JavaScript than OCaml, simply because of the sheer amount of developers using JavaScript. Consequently there is an abundance of low quality JavaScript content. This is where Google comes in.
 
-If Google Search did a good job, it would show high quality JavaScript content. But this is not what's happening. Instead, I am given visually poorly designed [GitHub](https://githubplus.com/) or StackOverflow clones or blog posts geared to sell something. I mean kudos to them for getting Google to list them before the content that they ripped off. This is what's called SEO garbage or SEO spam.
+If Google Search did a good job, it would show high quality JavaScript content. But this is not what's happening. Instead, I am given visually poorly designed [GitHub](https://githubplus.com/) or Stack Overflow clones or blog posts geared to sell something. I mean kudos to them for getting Google to list them before the content that they ripped off. This is what's called SEO garbage or SEO spam.
 
 If there are enough eyes on a language or technology, there is money to be made. If there is money to be made, everything necessary will be done to catch as many eyes as possible.
 
