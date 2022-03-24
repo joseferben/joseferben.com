@@ -5,18 +5,19 @@ date = 2022-03-23
 draft = false
 +++
 
-It hit me that the recent [decline of the Google Search result quality](https://twitter.com/mwseibel/status/1477701120319361026) is making me a better programmer by changing habits that I had for years. The title should be read as "How _lack of_ Google Search is making me a better programmer".
+It hit me that the recent [decline of the Google Search result quality](https://twitter.com/mwseibel/status/1477701120319361026) is making me a better programmer. Year old habits are changing. The title should be read as "How _lack of_ Google Search is making me a better programmer".
 
 <!--more-->
 
 
 ## Many eyes on mainstream technologies 👀 {#many-eyes-on-mainstream-technologies}
 
-Up until October 2021, my daily driver as a programmer was an exotic mix of OCaml and [NixOS](http://localhost:1313/tags/nixos/). Not that many people are using that combination daily, which has some interesting side effects. Google Search delivers either exactly the right answers or nothing at all.
+Up until October 2021, my daily driver as a programmer was an exotic mix of OCaml and [NixOS](http://localhost:1313/tags/nixos/). Not many people are using that combination daily. This has some interesting side effects. Google Search delivers either exactly the right answers or nothing at all.
 
-One could make an argument that the average OCaml programmer has more experience than the average JavaScript programmer. However, there are probably an order of magnitude more experienced JavaScript programmers than there are experienced OCaml programmers in absolute numbers. If both groups are equally active in forums and discussions, there should be much more high quality content / answers about JavaScript than OCaml, simply because of the sheer amount of developers using JavaScript.
+Let's compare the average OCaml programmer with the average Python programmer. The OCaml programmer is probably more experienced on average. Yet, in absolute numbers, there are more experienced Python programmers than OCaml programmers.
+Now let's assume both groups are active in forums and discussions. There should be much more high quality content / answers about Python than OCaml. There are just so many more developers using Python than OCaml.
 
-The job of Google Search is to crawl through all the JavaScript content and index it. If Google Search did a good job, it would show me relevant high quality JavaScript content for JavaScript queries. But this is not what's happening. Instead, I am given visually poorly designed [GitHub](https://githubplus.com/) or Stack Overflow clones or blog posts geared to sell something. I mean kudos to them for getting Google to list them before the content that they ripped off. This is what's called SEO garbage or SEO spam.
+The job of Google Search is to crawl the public Python content. If Google Search does a good job, it shows me relevant quality Python content. But this is not what's happening. Instead, I am given poorly designed [GitHub](https://githubplus.com/) or Stack Overflow clones. Or programming blogs with low effort tutorials trying to sell a course. I mean kudos to them for getting Google to list them before the content that they ripped off. This is what is called SEO garbage or SEO spam.
 
 If there are enough eyes on a language or technology, there is money to be made. If there is money to be made, everything necessary will be done to catch as many eyes as possible.
 
@@ -25,17 +26,17 @@ If there are enough eyes on a language or technology, there is money to be made.
 
 I was using more niche technologies for a few years and came back to find that Google is not as helpful anymore as it once was for mainstream technologies.
 
-With OCaml and ReasonML, I was getting used to jumping straight into the source code upon encountering a very specific issue. The chance of someone encountering the same issue with the same exotic tech stack _and_ posting about it online was just too low to even try.
-However, Googling OCaml language constructs was still efficient and it took me seconds to find good answers, usually in the documentation of a bigger library. I kept using Google like a cheat sheet.
+With OCaml and ReasonML, I was getting used to jumping straight into the source code upon encountering a very specific issue. The chance of someone encountering the same issue with the same exotic tech stack _and_ posting about it online was too low to even try.
+Yet, Googling OCaml language constructs was still efficient and it took me seconds to find good answers, usually in the documentation of a bigger library. I kept using Google like a cheat sheet.
 
 I started using [Django](http://localhost:1313/tags/django/) for a new project, which is a Python web framework that [has a lot of eyes on it](https://github.com/django/django/stargazers). I had to ditch Google as a cheat sheet replacement. In fact, I had to ditch Google as a long-term memory replacement.
 
 Back when Google released live search result suggestions that suggested queries _while_ typing, I was excited. It worked surprisingly well, and so I started accepting suggestions for queries that were better than my own. Google knew better than myself _how_ I wanted to search.
 The search results kept getting better with every year. At some point the search results were so good that usually the first search result was a hit.
 
-That (in hindsight incredibly) high quality version of Google Search made me lazy. With Google at hand, I was able to focus on higher level concepts, architecture and design. I could be sure that someone somewhere encountered a somewhat similar issue and Google _would do its magic_.
+That high quality version of Google Search made me lazy. With Google at hand, I was able to focus on higher level concepts, architecture and design. I could be sure that someone somewhere encountered a somewhat similar issue and Google _would do its magic_.
 
-Don't get me wrong, I don't copy and paste a code snippet without exactly understanding what it does. I admit however, that I don't remember the archaic arguments to extract a tar file or to convert a video with ffmpeg. And that sometimes the accepted answer on Stack Overflow is more useful than lacking documentation of an abandoned project or very young project.
+Don't get me wrong, I don't copy and paste a code snippet without exactly understanding what it does. I admit however, that I don't remember the archaic arguments to extract a tar file or to convert a video with ffmpeg. And that sometimes the accepted answer on Stack Overflow is useful. Especially when abandoned or very young projects lack good documentation.
 
 Things changed and I am starting to remember these things because wasting minutes scrolling through SEO spam _is not worth it_. Back when I was able to find exactly what I needed in _seconds_, Google Search was my general purpose cheat sheet. Today, I've adjusted:
 
@@ -46,7 +47,7 @@ Things changed and I am starting to remember these things because wasting minute
 
 To put it in other words, I reduced my reliance on external information. External information outside of my own brain and external information outside of my own notes.
 
-A part of it is probably just me maturing as programmer, but not being able to use Google Search as my general purpose cheat sheet definitely changed my habits as a programmer.
+A part of it is perhaps just me maturing as programmer. However, not being able to use Google Search as my general purpose cheat sheet definitely changed my habits.
 
 
 ## How to Google {#how-to-google}
