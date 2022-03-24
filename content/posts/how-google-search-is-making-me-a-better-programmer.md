@@ -12,7 +12,7 @@ It hit me that the recent [decline of the Google Search result quality](https://
 
 ## Many eyes on mainstream technologies 👀 {#many-eyes-on-mainstream-technologies}
 
-Up until October 2021, my daily driver as a programmer was an exotic mix of OCaml and [NixOS](http://localhost:1313/tags/nixos/). Not many people are using that combination daily. This has some interesting side effects. Google Search delivers either exactly the right answers or nothing at all.
+Up until October 2021, my daily driver as a programmer was an exotic mix of OCaml and [NixOS](http://localhost:1313/tags/nixos/). Few people are using that combination daily. This has some interesting side effects. Google Search delivers either exactly the right answers or nothing at all.
 
 Let's compare the average OCaml programmer with the average Python programmer. The OCaml programmer is probably more experienced on average. Yet, in absolute numbers, there are more experienced Python programmers than OCaml programmers.
 Now let's assume both groups are active in forums and discussions. There should be much more high quality content / answers about Python than OCaml. There are just so many more developers using Python than OCaml.
@@ -24,10 +24,10 @@ If there are enough eyes on a language or technology, there is money to be made.
 
 ## SEO spam is changing my habits {#seo-spam-is-changing-my-habits}
 
-I was using more niche technologies for a few years and came back to find that Google is not as helpful anymore as it once was for mainstream technologies.
+I was surprised when I started using Python after years of more niche technologies. Google was not as helpful anymore as it once was for mainstream technologies.
 
 With OCaml and ReasonML, I was getting used to jumping straight into the source code upon encountering a very specific issue. The chance of someone encountering the same issue with the same exotic tech stack _and_ posting about it online was too low to even try.
-Yet, Googling OCaml language constructs was still efficient and it took me seconds to find good answers, usually in the documentation of a bigger library. I kept using Google like a cheat sheet.
+Yet, Googling OCaml language constructs was still efficient and it took me seconds to find good answers. Hits were usually in documentations of a bigger libraries or frameworks. I kept using Google like a programming language cheat sheet.
 
 I started using [Django](http://localhost:1313/tags/django/) for a new project, which is a Python web framework that [has a lot of eyes on it](https://github.com/django/django/stargazers). I had to ditch Google as a cheat sheet replacement. In fact, I had to ditch Google as a long-term memory replacement.
 
@@ -54,7 +54,7 @@ A part of it is perhaps just me maturing as programmer. However, not being able 
 
 I am not memorizing every dark corner of every standard library of every language that I am using. Nevertheless, the mental model of that _Magical Input Field On White Background That Knows What I Want Before I Start Typing_ is gone. At least when it comes to programming and related subjects.
 
-After having tried Bing and DuckDuckGo I still use Google. Based on anecdotal evidence I feel like all the big search engines are having a hard time showing me relevant search results for my queries. I am stuck with Google but my search habits are changing.
+After having tried Bing and DuckDuckGo I still use Google. Based on anecdotal evidence all the big search engines are having a hard time showing me relevant search results for my queries. I am stuck with Google but my search habits are changing.
 
 -   Append _reddit_ or _hackernews_ to technological queries
 -   Use [uBlacklist](https://github.com/iorate/ublacklist) to block sites from showing up in Google Search
