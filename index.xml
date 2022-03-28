@@ -56,7 +56,7 @@ Luckily pyvenv provides a hook that runs whenever a virtualenv was activated.
     </item>
     
     <item>
-      <title>How To Bypass Cloudlfare Access For WebPageTest</title>
+      <title>How To Bypass Cloudflare Access For WebPageTest</title>
       <link>https://www.joseferben.com/posts/how_to_bypass_cloudflare_access_for_webpagetest/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
