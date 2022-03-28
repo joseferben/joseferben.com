@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.joseferben.com/posts/create-django-app-automatically-on-dokku/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/django/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/dokku/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.joseferben.com/posts/how-google-search-is-making-me-a-better-programmer/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.joseferben.com/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/posts/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joseferben.com/tags/nixos/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/update-nixos-packages-individually/</loc>
@@ -41,9 +50,6 @@
     <loc>https://www.joseferben.com/posts/associated_press_stylebook_title_capitalization/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.joseferben.com/tags/django/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joseferben.com/tags/project/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -55,9 +61,6 @@
   </url><url>
     <loc>https://www.joseferben.com/posts/replacing_dropbox_with_syncthing/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/dokku/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/recovering_dokku_postgres_backups/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>

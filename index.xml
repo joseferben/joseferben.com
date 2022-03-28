@@ -6,7 +6,16 @@
     <description>Recent content on Josef&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy a Django app automatically to Dokku</title>
+      <link>https://www.joseferben.com/posts/create-django-app-automatically-on-dokku/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/create-django-app-automatically-on-dokku/</guid>
+      <description>&lt;p&gt;This is the script I am using to deploy a &lt;em&gt;dokkuzied&lt;/em&gt; app to Dokku.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>How Google Search is making me a better programmer</title>
       <link>https://www.joseferben.com/posts/how-google-search-is-making-me-a-better-programmer/</link>
