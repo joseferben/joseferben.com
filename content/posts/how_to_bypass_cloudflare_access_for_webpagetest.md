@@ -1,5 +1,5 @@
 +++
-title = "How To Bypass Cloudlfare Access For WebPageTest"
+title = "How To Bypass Cloudflare Access For WebPageTest"
 author = ["Josef Erben"]
 date = 2022-01-01
 draft = false
