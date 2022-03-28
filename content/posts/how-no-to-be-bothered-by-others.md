@@ -9,3 +9,5 @@ draft = true
 -   A teacher makes noises, you do the thinking and learning
 -   Initial reflex can be negative, important to catch
 -   How to: empathy, openness (no assumptions)
+-   Decision diagram with outcome -&gt; you should not be bothered
+-   Skim that stoic book
