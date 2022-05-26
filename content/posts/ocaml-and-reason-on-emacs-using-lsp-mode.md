@@ -2,6 +2,7 @@
 title = "OCaml and Reason on Emacs using lsp-mode"
 author = ["Josef Erben"]
 date = 2022-05-26
+tags = ["emacs", "ocaml"]
 draft = false
 +++
 
