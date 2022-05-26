@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.joseferben.com/posts/how-to-auto-reload-the-django-shell/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joseferben.com/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/ocaml-and-reason-on-emacs-using-lsp-mode/</loc>
+    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/</loc>
+    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/posts/how-to-auto-reload-the-django-shell/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/create-django-app-automatically-on-dokku/</loc>
