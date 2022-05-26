@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Josef&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emacs</title>
+      <link>https://www.joseferben.com/tags/emacs/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ocaml</title>
+      <link>https://www.joseferben.com/tags/ocaml/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/tags/ocaml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>django</title>
       <link>https://www.joseferben.com/tags/django/</link>
@@ -40,15 +58,6 @@
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emacs</title>
-      <link>https://www.joseferben.com/tags/emacs/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.joseferben.com/tags/emacs/</guid>
       <description></description>
     </item>
     

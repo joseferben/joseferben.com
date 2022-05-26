@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ocaml on Josef&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/ocaml/</link>
+    <description>Recent content in ocaml on Josef&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/ocaml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCaml and Reason on Emacs using lsp-mode</title>
+      <link>https://www.joseferben.com/posts/ocaml-and-reason-on-emacs-using-lsp-mode/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/ocaml-and-reason-on-emacs-using-lsp-mode/</guid>
+      <description>&lt;p&gt;This year I started consolidating all the major modes by using &lt;code&gt;lsp-mode&lt;/code&gt; and &lt;code&gt;apheleia&lt;/code&gt; for all the programming language I use. The switch from OCaml&amp;rsquo;s &lt;code&gt;merlin-mode&lt;/code&gt; was surprisingly painless.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
