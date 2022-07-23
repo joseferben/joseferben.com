@@ -6,7 +6,16 @@
     <description>Recent content on Josef&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from NextJS to Remix</title>
+      <link>https://www.joseferben.com/posts/migrating-from-nextjs-to-remix/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/migrating-from-nextjs-to-remix/</guid>
+      <description>&lt;p&gt;I recently migrated a Next.js project to Remix in order to improve performance and maintainability. These are the good parts and the bad parts of Remix.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>OCaml and Reason on Emacs using lsp-mode</title>
       <link>https://www.joseferben.com/posts/ocaml-and-reason-on-emacs-using-lsp-mode/</link>
@@ -147,6 +156,15 @@ To apply the change, you need to run following command:</description>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.joseferben.com/posts/installing_only_certain_packages_form_an_unstable_nixos_channel/</guid>
+      <description>&lt;p&gt;Following the &lt;a href=&#34;https://nixos.org/manual/nixos/stable/index.html#ch-installation&#34;&gt;NixOS installation&lt;/a&gt; guide I ended up with a setup using a stable NixOS channel that just keeps giving. Sometimes however, it can be necessary to include packages from an unstable channel.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Only Certain Packages from Unstable on NixOS</title>
+      <link>https://www.joseferben.com/posts/installing_only_certain_packages_from_an_unstable_nixos_channel/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/installing_only_certain_packages_from_an_unstable_nixos_channel/</guid>
       <description>&lt;p&gt;Following the &lt;a href=&#34;https://nixos.org/manual/nixos/stable/index.html#ch-installation&#34;&gt;NixOS installation&lt;/a&gt; guide I ended up with a setup using a stable NixOS channel that just keeps giving. Sometimes however, it can be necessary to include packages from an unstable channel.&lt;/p&gt;</description>
     </item>
     
