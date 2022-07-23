@@ -75,8 +75,8 @@ from .domain_c import *
 ### Evolving Views {#evolving-views}
 
 ```nil
-└── views
-    ├── __init__.py
+  └── views
+      ├── __init__.py
     ├── views.py
     ├── mixins.py
     └── screens.py
