@@ -1,5 +1,5 @@
 +++
-title = "Migrating from NextJS to Remix"
+title = "Migrating from Next.js to Remix"
 author = ["Josef Erben"]
 date = 2022-07-21
 draft = false
