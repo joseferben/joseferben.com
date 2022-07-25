@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>react on Josef&#39;s Blog</title>
+    <link>https://www.joseferben.com/tags/react/</link>
+    <description>Recent content in react on Josef&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.joseferben.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from Next.js to Remix</title>
+      <link>https://www.joseferben.com/posts/migrating-from-nextjs-to-remix/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.joseferben.com/posts/migrating-from-nextjs-to-remix/</guid>
+      <description>&lt;p&gt;I recently migrated a Next.js project to Remix in order to improve performance and maintainability. These are 8 reasons why you should and should not use Remix.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

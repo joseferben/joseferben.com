@@ -11,6 +11,12 @@
     <loc>https://www.joseferben.com/posts/</loc>
     <lastmod>2022-07-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.joseferben.com/tags/react/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joseferben.com/tags/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.joseferben.com/tags/emacs/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +24,6 @@
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/ocaml-and-reason-on-emacs-using-lsp-mode/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joseferben.com/tags/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.joseferben.com/posts/how-to-auto-reload-the-django-shell/</loc>
