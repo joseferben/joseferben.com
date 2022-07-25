@@ -5,7 +5,7 @@ date = 2022-07-21
 draft = false
 +++
 
-I recently migrated a Next.js project to Remix in order to improve performance and maintainability. These are 8 reasons why you should or should not use Remix.
+I recently migrated a Next.js project to Remix in order to improve performance and maintainability. These are 8 reasons why you should and should not use Remix.
 
 <!--more-->
 
