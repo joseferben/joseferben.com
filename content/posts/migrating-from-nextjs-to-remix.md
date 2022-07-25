@@ -2,6 +2,7 @@
 title = "Migrating from Next.js to Remix"
 author = ["Josef Erben"]
 date = 2022-07-21
+tags = ["react"]
 draft = false
 +++
 
