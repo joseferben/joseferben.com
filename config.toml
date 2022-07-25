@@ -46,20 +46,17 @@ Title = "Hi there \U0001F44B"
 content = "I am Josef and these are my personal notes disguised as blog posts. Here and there you might find an actual blog post. I like to [create](/tags/project/) things."
 
 [[params.socialIcons]]
+name = "email"
+url = "mailto:josef@erben.systems"
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/joseferben"
-[[params.socialIcons]]
-name = "discord"
-url = "https://discord.com/users/490443650623471617"
 [[params.socialIcons]]
 name = "twitch"
 url = "https://twitch.tv/joseferben"
 [[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/joseferben"
-[[params.socialIcons]]
-name = "email"
-url = "mailto:josef@erben.io"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/josef-erben-90a002b1/"
